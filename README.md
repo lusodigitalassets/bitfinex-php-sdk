@@ -179,10 +179,4 @@ This package is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Ewerton Daniel** - [contact@ewertondaniel.work](mailto:contact@ewertondaniel.work)
-
-## Support
-
-If this project helps you, consider sending some Monero:
-
-`89ynYeog7vt6san1FENHDQhn4RnG9sR2f2jj5DSpgY6q18sjQcyRoYYEpFEFQDaJ3ajjRXaMnikm1P2xKPK4jEwsMeK5o6Q`
+**Ewerton Daniel** - [ewerton.daniel@lusodigitalassets.com](mailto:ewerton.daniel@lusodigitalassets.com)
